@@ -1,6 +1,4 @@
 # CodeX_Market_Entry_Insights_Dashboard
-# CodeX Energy Drink: India Market Entry Strategy
-
 Welcome to the **CodeX Market Entry Analytics** project! This repository contains the data models, Power BI configurations, and strategic insights generated from a comprehensive 10,000-respondent consumer survey across 10 major Indian cities. 
 
 The goal of this analysis is to provide the **Chief Marketing Officer (CMO)** with data-driven answers to define CodeX’s target audience, optimize marketing spend, refine product features, and construct immediate high-impact promotional campaigns to disrupt legacy players.
